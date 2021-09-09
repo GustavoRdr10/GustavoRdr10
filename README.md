@@ -1,4 +1,4 @@
-Olá, eu sou o Gustavo Machado Rodrigues
+👋 Olá, eu sou o Gustavo Machado Rodrigues
  
 
 - 🔭 Hoje trabalho com front-end
