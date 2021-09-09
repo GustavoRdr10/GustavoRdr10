@@ -13,6 +13,6 @@
 
 - 😃Tenho muito interesse em aprender e muita dedicação para me tornar um grande profissional.
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRdr10&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRdr10&show_icons=true&theme=gruvbox)
 
 
