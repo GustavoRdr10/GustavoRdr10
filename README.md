@@ -13,3 +13,6 @@
 
 - 😃Tenho muito interesse em aprender e muita dedicação para me tornar um grande profissional.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
