@@ -9,7 +9,7 @@ Olá, eu sou o Gustavo Machado Rodrigues
 
 - 🙌 Hoje sou estudante de Desenvolvimento de Sistemas no Senac Tech, e estagiário de Desenvolvimento de Sistemas na empresa Sequor.
 
-- ✔ Tenho conhecimento nas Linguagens React JS, Java, javascript, css, C#, SQL e conhecimento em análise e levantamento de requisitos para sistemas.
+- ✔ Tenho conhecimento nas Linguagens React JS, Java, javascript, css, C#, typescript, SQL e conhecimento em análise e levantamento de requisitos para sistemas.
 
 - 😃Tenho muito interesse em aprender e muita dedicação para me tornar um grande profissional.
 
