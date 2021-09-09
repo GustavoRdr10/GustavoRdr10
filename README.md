@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Gustavo Machado Rodrigues
+👋 Olá, eu sou o Gustavo Machado Rodrigues 👋
  
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRdr10&show_icons=true&theme=highcontrast)
 
