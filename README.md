@@ -11,4 +11,4 @@
 
  
   
-![Snake animation](https://github.com/GustavoRdr10/GustavoRdr10i/blob/output/github-contribution-grid-snake.svg)
+
