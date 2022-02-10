@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/GustavoRdr10">
-   <img height="180em" src="https://github-readme-stats.vecel.app/api?
-    username=GustavoRdr10$show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?
+    username=GustavoRdr10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github.readme.stats.vercel.app/api/top-langs/>username=GustavoRDR10&layout=compact&langs_count=16&theme=dracula"/>
    <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr10MJ2FN0B2/giphy.gif">
   </div>
