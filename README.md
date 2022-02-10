@@ -9,3 +9,12 @@
 <img align="center" alt="ts" src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
 <img align="center" alt="react" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
 
+<div>
+  <a href="https://github.com/GustavoRdr10">
+   <img height="180em" src="https://githubreadme-stats.vecel.app/api?
+    username=GustavoRdr10$show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github.readme.stats.vercel.app/api/top-langs/>username=GustavoRDR10&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr10MJ2FN0B2/giphy.gif">
+  </div>
+  
+
