@@ -17,11 +17,7 @@
 
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;">
 
-<div>
- 
- ![Snake animation](https://github.com/GustavoRdr10/GustavoRdr10/blob/output/github-contribution-grid-snake.svg)
 
-</div>
   
 
 
