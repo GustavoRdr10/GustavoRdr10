@@ -1,3 +1,4 @@
+
 👋 Olá, eu sou o Gustavo Machado Rodrigues 👋
  
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRdr10&show_icons=true&theme=highcontrast)
@@ -16,9 +17,11 @@
 
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;">
 
-![Snake animation](https://github.com/GustavoRdr10/GustavoRdr10/blob/output/github-contribution-grid-snake.svg)
+<div>
+ 
+ ![Snake animation](https://github.com/GustavoRdr10/GustavoRdr10/blob/output/github-contribution-grid-snake.svg)
 
-
+</div>
   
 
 
