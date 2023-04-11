@@ -14,4 +14,3 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GustavoRdr10&repo=GustavoRdr10&theme=react)](https://github.com/GustavoRdr10/GustavoRdr10)
